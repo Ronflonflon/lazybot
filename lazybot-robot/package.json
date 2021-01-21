@@ -15,7 +15,7 @@
     "http": "0.0.0",
     "mineflayer": "^2.11.0",
     "mineflayer-navigate": "0.0.10",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.3.0",
     "vec3": "^0.1.3"
   }
